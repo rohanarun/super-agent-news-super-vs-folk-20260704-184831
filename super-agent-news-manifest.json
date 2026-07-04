@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)",
+    "[theregister.com](https://www.theregister.com/security/2026/07/02/smooth-ai-criminal-drives-first-end-to-end-agentic-ransomware-attack/5266073)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini/)",
+    "[mit.edu](https://news.mit.edu/2026/qa-what-agentic-ai-today-0630)"
+  ],
+  "design_plan": "rng=42;aida=pass;hero_math=2.4_lines;bento_density=grid-auto-flow:dense;label_sweep=ok;button_contrast=ok",
+  "generated_at": "2026-07-04T18:48:38.337175+00:00",
+  "headline": "Super vs Folk \u2014 Personal AI Agents Compared",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair, design\u2011led comparison for people evaluating Folk against Super. Folk fits lightweight, app\u2011level automation. Super is built for durable computer\u2011use workflows, with a reusable computer-use cache that makes repeated work faster and cheaper over time \u2014 in a market where real computer\u2011operating agents are rapidly becoming the norm."
+}
